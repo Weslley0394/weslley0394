@@ -8,6 +8,7 @@
 Hoje, meu foco está em **back-end** e **banco de dados**, mas com um olhar especial para **segurança da informação**.  
 
 ## 🛠️ O que estou aprendendo 
+- Bancos de Dados: SQL
 - Back-end: Java e Python  
 
 ## 🎯 Objetivo  

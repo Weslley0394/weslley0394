@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o Weslley!  
+# 👋 Oi, eu sou o Weslley Dourado!  
 
 - 🎓 Bacharel em Química  
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas  

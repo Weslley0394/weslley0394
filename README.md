@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Weslley!  
 
-<!--
-**Weslley0394/weslley0394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Bacharel em Química  
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🚀 Em transição de carreira para TI  
+- 🌍 Idiomas: Inglês e Espanhol Avançados  
 
-Here are some ideas to get you started:
+Hoje, meu foco está em **back-end** e **banco de dados**, mas com um olhar especial para **segurança da informação**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ O que estou aprendendo 
+- Back-end: Java e Python  
+
+## 🎯 Objetivo  
+Construir uma carreira sólida em TI, aplicando meu raciocínio lógico, experiência em liderança e paixão por aprender para desenvolver soluções eficientes e escaláveis.
